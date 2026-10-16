@@ -1,0 +1,6 @@
+﻿  chat.server.cpp
+C:\programin\projects\cpp\chat.server\chat.server\filetransferclass.h(75,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'chat.server.cpp')
+  
+C:\programin\projects\cpp\chat.server\chat.server\chat.server.cpp(529,1): warning C4715: 'WinMain': not all control paths return a value
+  chat.server.vcxproj -> C:\programin\projects\cpp\chat.server\x64\Debug\chat.server.exe
